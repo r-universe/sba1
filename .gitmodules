@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mgsa"]
+	path = mgsa
+	url = https://github.com/sba1/mgsa-bioc
+	shallow = true
+	registered = true
